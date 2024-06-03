@@ -1,5 +1,5 @@
 <div align="center">
-<h1>OpenWrt-Mini  急速精简版，每周五-12点-云编译更新</h1>
+<h1>OpenWrt-Mini  急速精简版，每天-12点-自动云编译更新</h1>
 </div>
 
 ## 固件说明：（支持ipv6）
